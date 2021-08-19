@@ -1,6 +1,6 @@
 # Docker
 
-Personalized Docker for Kafka Dev
+Let's make personalized docker for "Kafka Project"
 
 OS: Ubuntu 18.04 (on MAC w/ XQuarz)
 
