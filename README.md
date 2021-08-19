@@ -2,6 +2,9 @@
 
 Let's make personalized docker for "Kafka Project"
 
+- START_DATE : 2021.08.09
+- UPDATE_DATE: 2021.08.19 (status: docker image done, fail to use Intellij (freeze issue))
+
 OS: Ubuntu 18.04 (on MAC w/ XQuarz)
 
 UTIL: nautilus, edit, vim, curl, vlc, brew
