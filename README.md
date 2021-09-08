@@ -16,3 +16,4 @@ DEV-TOOL: build-essential, pip, vscode, jupyterlab,intellij(freeze issue)
 APP: kafka (2.21-2.5.0, use another kafka-docker for running a kafka cluster), hadoop, elasticsearch, kibana
 
 Remote: xfce4, tightvnc
+ 
